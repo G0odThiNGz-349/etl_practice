@@ -13,7 +13,7 @@ Transform – Clean missing data, handle genres, and prepare dimension & fact ta
 Load – Store data in MySQL using SQLAlchemy, creating a star schema.
 
 Star Schema Design:
-<img width="1024" height="1536" alt="etl" src="https://github.com/user-attachments/assets/2a238b75-6bbb-48aa-872c-efbb7d93b510" />
+![ETL Workflow](https://github.com/user-attachments/assets/2a238b75-6bbb-48aa-872c-efbb7d93b510)
 
 
 Technologies Used:
